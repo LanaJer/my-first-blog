@@ -25,7 +25,7 @@ SECRET_KEY = 'cevjxhn2s4t-$=l(xlgnu%wm^0b&r!7c)ez4(^j#+k=v0gx=w+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'lana.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lanajer.pythonanywhere.com']
 
 
 # Application definition
